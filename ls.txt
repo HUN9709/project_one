@@ -1,0 +1,4 @@
+total 8
+-rw-rw---- 1 hallym hallym  0 Nov  2 03:51 ls.txt
+-rw-rw---- 1 hallym hallym 84 Nov  2 03:39 ps.txt
+-rw-rw---- 1 hallym hallym 14 Nov  2 03:37 README.md
